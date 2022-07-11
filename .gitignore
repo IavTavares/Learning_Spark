@@ -1,0 +1,4 @@
+.spark_env
+spark-warehouse*
+data/df_json
+metastore_db
