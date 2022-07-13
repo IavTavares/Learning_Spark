@@ -1,5 +1,6 @@
-# to run this file with the respective data file 
-# $ .spark_env/bin/spark-submit mnm.py data/mnm_dataset.csv
+# to run this file with the respective data file
+# 1) Activate the local environment.
+# 2) $ .spark_env/bin/spark-submit mnm.py data/mnm_dataset.csv
 # $ <folder_path_to_spark>/bin/spark-submit <path_to_source_file> <path_data_file>
 
 import sys
