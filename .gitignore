@@ -2,3 +2,4 @@
 spark-warehouse*
 data/df_json
 metastore_db
+data/lr-*
